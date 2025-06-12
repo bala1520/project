@@ -1,3 +1,0 @@
-working with basic commands
-touch a.txt creating a new file
-cp a.txt b.txt copies all contents to B.TXT
