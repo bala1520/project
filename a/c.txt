@@ -1,0 +1,18 @@
+working with basic commands
+mkdir l
+rm -r l
+touch a.txt creating a new file
+cp a.txt b.txt copies all contents to B.TXT
+mv a.txt b.txt (moves content of a into b and removes file a) 
+
+git pull
+git status                           checks status of local branch with origin branch
+git add --all or git add <file name> obtained from status
+git commit -m "add necessary commit message which appears against your file in GitHub or code repo"
+git push --all 
+
+git log
+git reset --hard HEAD~1             (reverts back last commit removes last commit)
+git reset --hard <specific commit id from git log>   (reverts back to particular commit)
+  
+git push --force origin <branch name> (we need to force push from local branch that on your system to origin branch i.e exact branch in repo)
