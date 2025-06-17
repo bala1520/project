@@ -1,3 +1,7 @@
+
+=======
+
+
 working with basic commands
 mkdir l
 rm -r l
@@ -16,6 +20,9 @@ git reset --hard HEAD~1             (reverts back last commit removes last commi
 git reset --hard <specific commit id from git log>   (reverts back to particular commit)
   
 git push origin <branch name> --force  (we need to force push from local branch that on your system to origin branch i.e exact branch in repo)
+
 1
 lets create
 deleted line whcih is existed in test and will try to merge test branch now, anticipating a merge conflict now
+=======
+
