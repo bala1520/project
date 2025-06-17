@@ -17,4 +17,5 @@ git reset --hard <specific commit id from git log>   (reverts back to particular
   
 git push origin <branch name> --force  (we need to force push from local branch that on your system to origin branch i.e exact branch in repo)
 1
-lets create a merge conflict
+lets create
+deleted line whcih is existed in test and will try to merge test branch now, anticipating a merge conflict now
